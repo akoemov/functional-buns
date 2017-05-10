@@ -1,4 +1,4 @@
-# functional - Java 8 Buns
+# functional-buns - Java 8 Buns
 
 use with Gradle
 
