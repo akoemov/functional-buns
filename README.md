@@ -1,6 +1,6 @@
 # functional-buns - Java 8 Buns
 
-use with Gradle
+Gradle
 
         repositories {
             maven {
