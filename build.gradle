@@ -1,0 +1,9 @@
+group 'org.blockchain_monitoring'
+version '1.0'
+
+apply plugin: 'java'
+apply plugin: 'maven-publish'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
