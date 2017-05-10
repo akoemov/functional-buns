@@ -1,6 +1,6 @@
 # functional
 
-you can add project in gradle
+use with Gradle
 
         repositories {
             maven {
