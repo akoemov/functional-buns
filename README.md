@@ -4,7 +4,7 @@ Gradle
 
         repositories {
             maven {
-                url "http://fabric-monitoring.org/repository/"
+                url "http://blockchain-monitoring.org/repository/"
             }
         }
 
