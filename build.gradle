@@ -7,3 +7,13 @@ apply plugin: 'maven-publish'
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
+publishing {
+    publications {
+        maven(MavenPublication) {
+            groupId 'org.blockchain_monitoring'
+            artifactId 'functional-buns'
+
+            from components.java
+        }
+    }
+}
