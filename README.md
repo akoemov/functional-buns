@@ -1,5 +1,5 @@
 # functional-buns - Java 8 Buns
-
+**Continuous integration:** [![Build Status](https://travis-ci.org/blockchain-monitoring/functional-buns.svg?branch=master)](https://travis-ci.org/blockchain-monitoring/functional-buns)
 Gradle
 
         repositories {
