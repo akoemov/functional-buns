@@ -1,19 +1,23 @@
 package org.blockchain_monitoring.functional_buns;
 
-import org.blockchain_monitoring.functional_buns.api.ThrowableBiConsumer;
-import org.blockchain_monitoring.functional_buns.api.ThrowableBiFunction;
-import org.blockchain_monitoring.functional_buns.api.ThrowableFunction;
-import org.blockchain_monitoring.functional_buns.api.TripleConsumer;
-import org.blockchain_monitoring.functional_buns.api.VoidAction;
-import org.blockchain_monitoring.functional_buns.exception.LambdaException;
-import org.blockchain_monitoring.functional_buns.api.ThrowableConsumer;
-import org.blockchain_monitoring.functional_buns.api.ThrowableThConsumer;
-
 import java.util.Optional;
-import java.util.function.*;
+import java.util.function.BiConsumer;
+import java.util.function.BiFunction;
+import java.util.function.Consumer;
+import java.util.function.Function;
+import java.util.function.Supplier;
 import java.util.stream.Collector;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
+
+import org.blockchain_monitoring.functional_buns.api.ThrowableBiConsumer;
+import org.blockchain_monitoring.functional_buns.api.ThrowableBiFunction;
+import org.blockchain_monitoring.functional_buns.api.ThrowableConsumer;
+import org.blockchain_monitoring.functional_buns.api.ThrowableFunction;
+import org.blockchain_monitoring.functional_buns.api.ThrowableThConsumer;
+import org.blockchain_monitoring.functional_buns.api.TripleConsumer;
+import org.blockchain_monitoring.functional_buns.api.VoidAction;
+import org.blockchain_monitoring.functional_buns.exception.LambdaException;
 
 /**
  *  Класс для предоставления полезных функций при использовании Java-Stream
@@ -447,4 +451,8 @@ public class Wrap {
                         : Optional.empty()
         );
     }
+
+    public static void doWell() {
+        System.out.println("now well");
+    };
 }
