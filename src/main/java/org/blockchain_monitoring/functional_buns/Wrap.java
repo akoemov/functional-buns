@@ -451,8 +451,4 @@ public class Wrap {
                         : Optional.empty()
         );
     }
-
-    public static void doWell() {
-        System.out.println("now well");
-    };
 }
