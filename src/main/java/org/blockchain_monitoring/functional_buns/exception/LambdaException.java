@@ -1,4 +1,4 @@
-package org.blockchain_monitoring.functional.exception;
+package org.blockchain_monitoring.functional_buns.exception;
 
 /**
  * Created by Ruslan Kryukov on 13/04/2017.

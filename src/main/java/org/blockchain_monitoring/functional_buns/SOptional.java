@@ -1,4 +1,4 @@
-package org.blockchain_monitoring.functional;
+package org.blockchain_monitoring.functional_buns;
 
 import java.util.Collections;
 import java.util.EnumSet;

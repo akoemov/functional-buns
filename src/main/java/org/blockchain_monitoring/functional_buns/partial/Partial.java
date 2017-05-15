@@ -1,8 +1,8 @@
-package org.blockchain_monitoring.functional.partial;
+package org.blockchain_monitoring.functional_buns.partial;
 
 
-import org.blockchain_monitoring.functional.api.TripleConsumer;
-import org.blockchain_monitoring.functional.api.TripleFunction;
+import org.blockchain_monitoring.functional_buns.api.TripleConsumer;
+import org.blockchain_monitoring.functional_buns.api.TripleFunction;
 
 import java.util.function.BiConsumer;
 import java.util.function.BiFunction;

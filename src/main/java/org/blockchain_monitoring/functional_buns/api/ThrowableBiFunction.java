@@ -1,4 +1,4 @@
-package org.blockchain_monitoring.functional.api;
+package org.blockchain_monitoring.functional_buns.api;
 
 
 /**

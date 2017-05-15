@@ -1,7 +1,7 @@
-package org.blockchain_monitoring.functional.partial;
+package org.blockchain_monitoring.functional_buns.partial;
 
-import org.blockchain_monitoring.functional.api.ThrowableBiFunction;
-import org.blockchain_monitoring.functional.api.ThrowableFunction;
+import org.blockchain_monitoring.functional_buns.api.ThrowableBiFunction;
+import org.blockchain_monitoring.functional_buns.api.ThrowableFunction;
 
 /**
  * Created by Ruslan Kryukov on 14/04/2017.

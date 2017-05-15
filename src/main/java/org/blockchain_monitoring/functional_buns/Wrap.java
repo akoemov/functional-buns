@@ -1,13 +1,13 @@
-package org.blockchain_monitoring.functional;
+package org.blockchain_monitoring.functional_buns;
 
-import org.blockchain_monitoring.functional.api.ThrowableBiConsumer;
-import org.blockchain_monitoring.functional.api.ThrowableBiFunction;
-import org.blockchain_monitoring.functional.api.ThrowableFunction;
-import org.blockchain_monitoring.functional.api.TripleConsumer;
-import org.blockchain_monitoring.functional.api.VoidAction;
-import org.blockchain_monitoring.functional.exception.LambdaException;
-import org.blockchain_monitoring.functional.api.ThrowableConsumer;
-import org.blockchain_monitoring.functional.api.ThrowableThConsumer;
+import org.blockchain_monitoring.functional_buns.api.ThrowableBiConsumer;
+import org.blockchain_monitoring.functional_buns.api.ThrowableBiFunction;
+import org.blockchain_monitoring.functional_buns.api.ThrowableFunction;
+import org.blockchain_monitoring.functional_buns.api.TripleConsumer;
+import org.blockchain_monitoring.functional_buns.api.VoidAction;
+import org.blockchain_monitoring.functional_buns.exception.LambdaException;
+import org.blockchain_monitoring.functional_buns.api.ThrowableConsumer;
+import org.blockchain_monitoring.functional_buns.api.ThrowableThConsumer;
 
 import java.util.Optional;
 import java.util.function.*;

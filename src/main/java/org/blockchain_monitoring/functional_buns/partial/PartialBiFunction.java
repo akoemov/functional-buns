@@ -1,4 +1,4 @@
-package org.blockchain_monitoring.functional.partial;
+package org.blockchain_monitoring.functional_buns.partial;
 
 import java.util.function.BiFunction;
 import java.util.function.Function;
